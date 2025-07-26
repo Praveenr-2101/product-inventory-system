@@ -42,9 +42,13 @@ coverage/
 .vite/
 .idea/
 
-# macOS
+# macOScls
 .DS_Store
 
 # Windows
 Thumbs.db
 ehthumbs.db
+
+.media
+.src.log
+.src.__pycache__/
